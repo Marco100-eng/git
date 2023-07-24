@@ -1,0 +1,4 @@
+*.log
+node
+!im.log
+text.txt
